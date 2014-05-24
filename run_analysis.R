@@ -46,6 +46,6 @@ write.table(data, "data.txt")
 #and each subject. Write the 
 library(reshape2)
 id_vars = c("subject", "Activity")
-melt <- melt(tidy,id_vars)
+melt <- melt(data,id_vars)
 tidy_data <- dcast(melt, subject + Activity ~ variable, mean)
 write.table(tidy_data,"tidy_data.txt")
