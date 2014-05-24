@@ -1,5 +1,5 @@
 
-getting_and_cleaning_data_
+getting_and_cleaning_data
 ====================================
 
 # Steps on how to implement the script
