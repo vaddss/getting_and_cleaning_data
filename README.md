@@ -1,5 +1,5 @@
 
-getting_and_cleaning_data_assignment
+getting_and_cleaning_data_
 ====================================
 
 # Steps on how to implement the script
